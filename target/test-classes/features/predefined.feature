@@ -1,5 +1,11 @@
+#Search Engine exercise
+#ASK0323-7
+#Author: Anna Verkovskaya
+
+@predefined
 Feature: Search Engine scenarios
-  
+  @predefined1
+
   Scenario: Search Engine for Google
     Given I open url "https://www.google.com/"
     Then I should see page title as "Google"

@@ -49,6 +49,7 @@
       Then I click on element with xpath "//span[contains(text(),'Save')]"
       Then element with xpath "//input[@id='name']" should be present
       Then element with xpath "//input[@id='name']" should have attribute "value" as "First Middle Last"
+      Then element with xpath "//option[contains(text(),'BMW')]" should have attribute "xpath" as "1"
 
 #data driven scenario
     @quote4
@@ -63,6 +64,9 @@
       Then I click on element with xpath "//span[contains(text(),'Save')]"
       Then element with xpath "//input[@id='name']" should be present
       Then element with xpath "//input[@id='name']" should have attribute "value" as "<fullName>"
+      
+      
+      
       Examples:
         | firstName  | middleName  |  LastName |  fullName    |
         | First |  Middle |  Last  |  First Middle Last |

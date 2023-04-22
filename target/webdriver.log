@@ -77,3 +77,295 @@ INFO 11:09:37:247 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using 
 INFO 11:09:37:277 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/averkhovskaya/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
 INFO 11:10:00:890 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
 INFO 11:10:00:918 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/averkhovskaya/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 01:06:01:144 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 01:06:01:163 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:21:48:799 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:21:48:819 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:39:16:396 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:39:16:416 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:39:34:873 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:39:34:877 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:00:10:965 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:00:10:982 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:00:44:021 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:00:44:038 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:02:29:222 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:02:29:239 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:04:23:272 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:04:23:289 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:10:05:604 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:10:05:621 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:13:42:493 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:13:42:511 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:13:50:875 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:13:50:880 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:51:07:223 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:51:07:244 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:51:16:682 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:51:16:685 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:51:24:288 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:51:24:292 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:51:31:960 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:51:31:965 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:51:39:822 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:51:39:826 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:51:47:546 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:51:47:548 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:51:55:259 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:51:55:262 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:55:48:943 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:55:48:960 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:55:57:393 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:55:57:397 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:56:05:052 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:56:05:060 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:56:12:827 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:56:12:832 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:56:20:683 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:56:20:687 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:56:28:347 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:56:28:351 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:56:35:880 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:56:35:883 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:59:11:358 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:59:11:375 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:59:20:038 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:59:20:043 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:59:27:674 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:59:27:680 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:59:35:424 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:59:35:429 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:59:43:052 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:59:43:056 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:59:50:792 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:59:50:797 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:59:58:386 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:59:58:389 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:07:03:070 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:07:03:086 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:07:12:737 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:07:12:741 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:07:21:359 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:07:21:363 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:07:29:807 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:07:29:810 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:07:38:232 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:07:38:236 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:07:46:676 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:07:46:679 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:07:55:104 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:07:55:106 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:33:52:017 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:33:52:035 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:34:01:590 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:34:01:601 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:34:10:083 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:34:10:087 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:34:18:543 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:34:18:546 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:34:26:940 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:34:26:943 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:34:35:375 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:34:35:379 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:34:43:801 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:34:43:803 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:57:55:482 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:57:55:505 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:58:04:961 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:58:04:966 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:58:13:626 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:58:13:630 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:58:22:207 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:58:22:212 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:58:30:582 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:58:30:587 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:58:39:060 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:58:39:063 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:58:47:684 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:58:47:688 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:01:00:323 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:00:338 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:01:08:911 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:08:918 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:01:17:622 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:17:625 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:01:26:027 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:26:030 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:01:34:411 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:34:415 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:01:42:812 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:42:816 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:01:51:284 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:51:286 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:42:03:551 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:42:03:567 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:43:37:468 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:43:37:484 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:43:55:534 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:43:55:548 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:44:03:973 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:44:03:977 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:44:12:539 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:44:12:545 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:44:21:095 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:44:21:098 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:44:29:688 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:44:29:691 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:44:38:243 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:44:38:247 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:44:46:713 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:44:46:717 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:45:07:200 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:45:07:213 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:45:15:579 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:45:15:583 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:45:24:167 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:45:24:172 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:45:32:582 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:45:32:585 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:45:41:142 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:45:41:145 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:45:49:525 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:45:49:528 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:45:58:115 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:45:58:120 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:47:48:928 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:47:48:943 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:47:57:475 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:47:57:481 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:48:06:114 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:48:06:118 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:48:14:462 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:48:14:465 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:48:22:862 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:48:22:865 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:48:31:330 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:48:31:333 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:48:39:746 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:48:39:747 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:50:15:632 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:50:15:647 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:50:23:256 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:50:23:260 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:50:30:943 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:50:30:947 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:50:38:793 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:50:38:795 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:50:47:331 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:50:47:334 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:50:55:745 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:50:55:748 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:51:04:242 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:51:04:245 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:51:12:772 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:51:12:779 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:51:21:182 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:51:21:186 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:52:01:205 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:52:01:220 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:52:16:517 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:52:16:534 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:52:37:596 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:52:37:612 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:52:45:859 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:52:45:863 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:52:54:425 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:52:54:431 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:53:02:852 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:53:02:855 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:53:11:192 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:53:11:195 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:53:19:620 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:53:19:623 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:53:28:243 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:53:28:245 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:40:12:050 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:40:12:068 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:40:21:999 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:40:22:002 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:40:30:468 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:40:30:472 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:40:38:918 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:40:38:921 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:40:47:252 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:40:47:255 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:40:55:702 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:40:55:708 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:41:04:217 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:41:04:220 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:44:28:946 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:44:28:966 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:44:38:555 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:44:38:558 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:44:47:297 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:44:47:303 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:44:55:645 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:44:55:648 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:45:04:085 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:45:04:088 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:45:12:290 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:45:12:296 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:45:20:665 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:45:20:667 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:47:15:959 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:47:15:973 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:47:24:770 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:47:24:775 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:47:33:341 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:47:33:345 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:47:41:876 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:47:41:879 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:47:50:307 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:47:50:310 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:47:59:215 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:47:59:218 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:48:07:954 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:48:07:957 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:49:42:648 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:49:42:664 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:51:38:809 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:51:38:825 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:51:47:901 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:51:47:905 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:51:56:202 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:51:56:208 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:52:04:681 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:52:04:684 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:52:12:810 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:52:12:814 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:52:21:011 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:52:21:014 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:52:29:380 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:52:29:382 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:53:29:568 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:53:29:583 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:53:37:805 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:53:37:809 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:53:46:377 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:53:46:382 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:53:54:717 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:53:54:720 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:54:03:177 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:54:03:181 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:54:11:477 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:54:11:481 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 20:54:19:941 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 20:54:19:943 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:45:57:523 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:45:57:542 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:51:19:321 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:51:19:340 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:51:28:881 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:51:28:884 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:51:37:254 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:51:37:258 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:51:45:593 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:51:45:597 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:51:53:812 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:51:53:815 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:52:04:393 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:52:04:399 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:52:12:603 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:52:12:605 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 22:54:22:911 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 22:54:22:926 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/olgasadomskaia/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver

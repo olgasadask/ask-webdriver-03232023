@@ -8,3 +8,4 @@
     # Then I should see page title as "Google"
      Given AV navigate to "ask-int"
      Then AV get page information
+     And AV maximize the window

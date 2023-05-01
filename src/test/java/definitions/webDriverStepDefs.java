@@ -9,9 +9,9 @@ import static support.TestContext.getDriver;
 public class webDriverStepDefs {
     @Given("AV navigate to {string}")
     public void avNavigateTo(String sURL) {
-       // getDriver().get("https://www.google.com/");
+        // getDriver().get("https://www.google.com/");
 
-        switch (sURL){
+        switch (sURL) {
             case "Google":
                 getDriver().get("https://www.google.com/");
                 break;
@@ -40,3 +40,5 @@ public class webDriverStepDefs {
         getDriver().manage().window().maximize();
     }
 }
+
+

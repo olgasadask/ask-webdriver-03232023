@@ -1,0 +1,266 @@
+<html>
+<head>
+<title>quote.feature</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #629755; font-style: italic;}
+.s1 { color: #a9b7c6;}
+.s2 { color: #bbb529;}
+.s3 { color: #cc7832;}
+.s4 { color: #a9b7c6;}
+.s5 { color: #297bde; font-weight: bold;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+quote.feature</font>
+</center></td></tr></table>
+<pre><span class="s0"># Test automation for Quote application</span>
+<span class="s0"># https://skryabin.com/market/quote.html</span>
+<span class="s0"># Author: Olga Sadomskaia</span>
+
+<span class="s2">@quote</span>
+<span class="s3">Feature</span><span class="s1">: </span><span class="s4">Quote Test Scenarios</span>
+
+  <span class="s3">Background</span><span class="s1">:</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://skryabin.com/market/quote.html&quot;</span>
+    <span class="s3">Then </span><span class="s4">I resize window to 1920 and 1080</span>
+  <span class="s2">@quote1</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Validate Location address</span>
+      <span class="s0">#Validate location address with different window size/example of responsive design testing</span>
+      <span class="s0"># Given I open url &quot;https://skryabin.com/market/quote.html&quot;</span>
+      <span class="s0"># Then I resize window to 1920 and 1080</span>
+      <span class="s0">#desctop mode</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//b[@id='location']&quot; should be displayed</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//b[@id='location']&quot; should contain text &quot;Los Altos, CA 94022&quot;</span>
+    <span class="s3">Then </span><span class="s4">I resize window to 375 and 677</span>
+      <span class="s0">#phone mode</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//b[@id='location']&quot; should not be displayed</span>
+
+  <span class="s2">@quote2</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Verify Username field</span>
+        <span class="s0">#Verify that 2 or more characters are allowed as Username and Username should not be empty.</span>
+        <span class="s0"># Given I open url &quot;https://skryabin.com/market/quote.html&quot;</span>
+        <span class="s0"># Then I resize window to 1920 and 1080</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@name='username']&quot; should be present</span>
+    <span class="s3">And </span><span class="s4">I type &quot;A&quot; into element with xpath &quot;//input[@name='username']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//button[@id='formSubmit']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//label[@id='username-error']&quot; should contain text &quot;Please enter at least 2 characters.&quot;</span>
+    <span class="s3">Then </span><span class="s4">I clear element with xpath &quot;//input[@name='username']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//label[@id='username-error']&quot; should contain text &quot;This field is required.&quot;</span>
+    <span class="s3">And </span><span class="s4">I type &quot;ABC&quot; into element with xpath &quot;//input[@name='username']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//button[@id='formSubmit']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//label[@id='username-error']&quot; should not be displayed</span>
+  <span class="s2">@quote3</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Verify name field</span>
+        <span class="s0">#Verify that Name field properly display the input from Name pop up window fields.</span>
+    <span class="s3">Then </span><span class="s4">I click on element with xpath &quot;//input[@id='name']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='firstName']&quot; should be displayed</span>
+    <span class="s3">And </span><span class="s4">I type &quot;first&quot; into element with xpath &quot;//input[@id='firstName']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='middleName']&quot; should be displayed</span>
+    <span class="s3">And </span><span class="s4">I type &quot;middle&quot; into element with xpath &quot;//input[@id='middleName']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='lastName']&quot; should be displayed</span>
+    <span class="s3">And </span><span class="s4">I type &quot;last&quot; into element with xpath &quot;//input[@id='lastName']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I click on element with xpath &quot;//span[contains(text(),'Save')]&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='name']&quot; should be present</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='name']&quot; should have attribute &quot;value&quot; as &quot;first middle last&quot;</span>
+
+     <span class="s0">#data driven scenario</span>
+  <span class="s2">@quote4</span>
+  <span class="s3">Scenario Outline</span><span class="s1">: </span><span class="s4">Verify name field</span>
+    <span class="s3">Then </span><span class="s4">I click on element with xpath &quot;//input[@id='name']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='firstName']&quot; should be displayed</span>
+    <span class="s3">And </span><span class="s4">I type &quot;</span><span class="s1">&lt;firstName&gt;</span><span class="s4">&quot; into element with xpath &quot;//input[@id='firstName']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='middleName']&quot; should be displayed</span>
+    <span class="s3">And </span><span class="s4">I type &quot;</span><span class="s1">&lt;middleName&gt;</span><span class="s4">&quot; into element with xpath &quot;//input[@id='middleName']&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='lastName']&quot; should be displayed</span>
+    <span class="s3">And </span><span class="s4">I type &quot;</span><span class="s1">&lt;lastName&gt;</span><span class="s4">&quot; into element with xpath &quot;//input[@id='lastName']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I click on element with xpath &quot;//span[contains(text(),'Save')]&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='name']&quot; should be present</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='name']&quot; should have attribute &quot;value &quot; as &quot;</span><span class="s1">&lt;fullName&gt;</span><span class="s4">&quot;</span>
+    <span class="s3">Examples</span><span class="s1">:</span>
+      <span class="s3">| </span><span class="s5">firstName </span><span class="s3">| </span><span class="s5">middleName </span><span class="s3">| </span><span class="s5">lastName </span><span class="s3">| </span><span class="s5">fullName </span><span class="s3">|</span>
+      <span class="s3">| </span><span class="s5">first </span><span class="s3">| </span><span class="s5">middle  </span><span class="s3">| </span><span class="s5">last </span><span class="s3">| </span><span class="s5">first middle last </span><span class="s3">|</span>
+      <span class="s3">| </span><span class="s5">A </span><span class="s3">| </span><span class="s5">B </span><span class="s3">|  </span><span class="s5">C  </span><span class="s3">| </span><span class="s5">A B C </span><span class="s3">|</span>
+      <span class="s3">| </span><span class="s5">1 </span><span class="s3">| </span><span class="s5">2 </span><span class="s3">|  </span><span class="s5">3  </span><span class="s3">| </span><span class="s5">1 2 3 </span><span class="s3">|</span>
+      <span class="s3">| </span><span class="s5">A </span><span class="s3">|   |  </span><span class="s5">C  </span><span class="s3">| </span><span class="s5">A  C </span><span class="s3">|</span>
+      <span class="s3">| </span><span class="s5">A </span><span class="s3">| </span><span class="s5">B </span><span class="s3">|     | </span><span class="s5">A B  </span><span class="s3">|</span>
+      <span class="s3">| </span><span class="s5">A </span><span class="s3">| </span><span class="s5">B </span><span class="s3">|  </span><span class="s5">C  </span><span class="s3">| </span><span class="s5">ABC  </span><span class="s3">|</span>
+
+
+
+
+
+    <span class="s0">#Search Engine exercise</span>
+    <span class="s0"># ASK0323</span>
+    <span class="s0"># Author: Olga Sadomskaia</span>
+
+
+  <span class="s2">@predefined1</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for Gibiru</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;http://gibiru.com/&quot;</span>
+    <span class="s3">Then </span><span class="s4">I should see page title contains &quot;Gibiru&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='q'] &quot; should be present</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@id='q'] &quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element using JavaScript with xpath &quot;//button[@type='submit']&quot;</span>
+    <span class="s3">And </span><span class="s4">I wait for 2 sec</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//span[contains(text(),'All results')]&quot; to be present</span>
+    <span class="s3">And </span><span class="s4">I should see page title contains &quot;Results&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot; //div[@id='web-results']&quot; to be present</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//div[@id='web-results']&quot; should contain text &quot;Cucumber&quot;</span>
+
+  <span class="s2">@predefined2</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for Duckduckgo</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://duckduckgo.com/&quot;</span>
+    <span class="s3">Then </span><span class="s4">I should see page title contains &quot;DuckDuckGo&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@id='searchbox_input']&quot; should be present</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@id='searchbox_input']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I click on element using JavaScript with xpath &quot;//button[@type='submit']&quot;</span>
+    <span class="s3">And </span><span class="s4">I wait for 2 sec</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//input[@id='search_form_input']&quot; to be present</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//div[@id='links_wrapper']&quot; should contain text &quot;Cucumber&quot;</span>
+
+  <span class="s2">@predefined3</span>
+
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for Swisscows</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot; https://swisscows.com/en/&quot;</span>
+    <span class="s3">Then </span><span class="s4">I should see page title contains &quot;Swisscows&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@class='input-search']&quot; should be present</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@class='input-search']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I click on element using JavaScript with xpath &quot;//button[@type='submit']&quot;</span>
+    <span class="s3">And </span><span class="s4">I wait for 3 sec</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//input[@class='input search']&quot; to be present</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//div[@class='web-results']&quot; should contain text &quot;Cucumber&quot;</span>
+
+  <span class="s2">@predefined4</span>
+
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search engine for Searchencrypt</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://www.searchencrypt.com&quot;</span>
+    <span class="s3">Then </span><span class="s4">I should see page title as &quot;Search Encrypt | Home&quot;</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@name='q']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I click on element using JavaScript with xpath &quot;//button[@type='submit']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 2 sec</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//div[@class='serp__top-ads']&quot; to be present</span>
+    <span class="s3">And </span><span class="s4">I should see page title as &quot;Search Encrypt | Search Web...&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//div[@class='serp__top-ads']&quot; should contain text &quot;Cucumber&quot;</span>
+
+  <span class="s2">@predefined5</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for Start Page</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://www.startpage.com&quot;</span>
+    <span class="s3">And </span><span class="s4">I should see page title contains &quot;Startpage - Private&quot;</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@id='q']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//button[@id='search-btn']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 2 sec</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//h3[contains(text(),'Web results')]&quot; to be present</span>
+    <span class="s3">And </span><span class="s4">I should see page title as &quot;Startpage Search Results&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//div[@class='mainline-results mainline-results__web']&quot; should contain text &quot;Cucumber&quot;</span>
+
+
+  <span class="s2">@predefined6</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for Yandex</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://www.yandex.com/?&quot;</span>
+    <span class="s3">And </span><span class="s4">I should see page title as &quot;Yandex&quot;</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@id='text']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//button[@type='submit']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 2 sec</span>
+    <span class="s3">And </span><span class="s4">element with xpath &quot;//ul[@id='search-result']&quot; should contain text &quot;Cucumber&quot;</span>
+
+  <span class="s2">@predefined7</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for Ecosia</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://www.ecosia.org&quot;</span>
+    <span class="s3">And </span><span class="s4">I should see page title contains &quot;Ecosia -&quot;</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cycumber&quot; into element with xpath &quot;//input[@name='q']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//button[@type='submit']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 2 sec</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//section[@data-test-id='mainline']&quot; to be present</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//section[@data-test-id='mainline']&quot; should contain text &quot;Cucumber&quot;</span>
+
+  <span class="s2">@predefined8</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search https://www.wiki.com/</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://www.wiki.com/&quot;</span>
+    <span class="s3">Then </span><span class="s4">I should see page title contains &quot;Wiki.com&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//input[@name='q']&quot; should be present</span>
+    <span class="s3">When </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@name='q']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//input[@name='btnG']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 1 sec</span>
+    <span class="s3">Then </span><span class="s4">I should see page title contains &quot;Form is not secure&quot;</span>
+    <span class="s3">Then </span><span class="s4">I click on element with xpath &quot;//button[@id='proceed-button']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 1 sec</span>
+    <span class="s3">Then </span><span class="s4">I should see page title contains &quot;Wiki.com&quot;</span>
+    <span class="s3">Then </span><span class="s4">I switch to iframe with xpath &quot;//iframe[@name='googleSearchFrame']&quot;</span>
+    <span class="s3">And </span><span class="s4">element with xpath &quot;//div[@class='gsc-control-cse gsc-control-cse-en'][1]&quot; should contain text &quot;Cucumber&quot;</span>
+       <span class="s0"># Then element with xpath &quot;//*[contains(text(),'Cucumber')]&quot; should contain text &quot;Cucumber&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 5 sec</span>
+
+  <span class="s2">@predefined9</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for giveWater</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://www.givewater.com/&quot;</span>
+    <span class="s3">And </span><span class="s4">I should see page title contains &quot;giveWater Search Engine&quot;</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@id='site-search']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//button[@id='button-addon2']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for 5 sec</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//div[@class='mainline-results mainline-results__web']&quot; to be present</span>
+    <span class="s3">And </span><span class="s4">I should see page title as &quot;Cucumber - GiveWater Web Search&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//div[@class='mainline-results mainline-results__web']&quot; should contain text &quot;Cucumber&quot;</span>
+
+  <span class="s2">@predefined10</span>
+  <span class="s3">Scenario</span><span class="s1">: </span><span class="s4">Search Engine for Ekoru</span>
+    <span class="s3">Given </span><span class="s4">I open url &quot;https://ekoru.org/&quot;</span>
+    <span class="s3">And </span><span class="s4">I should see page title contains &quot;Ekoru - every search cleans our oceans&quot;</span>
+    <span class="s3">Then </span><span class="s4">I type &quot;Cucumber&quot; into element with xpath &quot;//input[@id='fld_q']&quot;</span>
+    <span class="s3">And </span><span class="s4">I click on element with xpath &quot;//button[@onclick='search()']&quot;</span>
+    <span class="s3">Then </span><span class="s4">I wait for element with xpath &quot;//div[@id='div_results']&quot; to be present</span>
+    <span class="s3">Then </span><span class="s4">I wait for 2 sec</span>
+    <span class="s3">And </span><span class="s4">I should see page title as &quot;Ekoru - every search cleans our oceans&quot;</span>
+    <span class="s3">Then </span><span class="s4">element with xpath &quot;//div[@id='div_results']&quot; should contain text &quot;Cucumber&quot;</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+</body>
+</html>
